@@ -18,7 +18,7 @@
   {
     "id": "7d9d56e1-a4f7-4c2c-b94d-6520fa9d3bc0",
     "name": "Headset",
-    "inStock": false,
+    "inStock": "false",
     "unit": "10",
     "unitPrice": "200",
     "totalPrice": 2000
